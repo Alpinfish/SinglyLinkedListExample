@@ -1,7 +1,6 @@
-LinkedListExample
-=================
+ Singly-Linked List Example
 
-An exaple of implementing a Linked List, without the collections namespace
+**********An example of creating a Linked List**********
 
-includes Add, Delete, and Retrieve methods.
-
+**********Written by Jason A. Astuto************************
+**********Jason.Astuto@sustrugi.com*************************
