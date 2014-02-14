@@ -2,5 +2,5 @@
 
 **********An example of creating a Linked List**********
 
-**********Written by Jason A. Astuto************************
+**********Written by Jason A. Astuto ***********************
 **********Jason.Astuto@sustrugi.com*************************
