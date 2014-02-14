@@ -1,4 +1,4 @@
- Singly-Linked List Example
+Singly-Linked List Example
 
 **********An example of creating a Linked List**********
 
