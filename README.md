@@ -1,4 +1,4 @@
-S3_G2_Alpha
-===========
+Singly Linked List Example
+==========================
 
-The Administration site for the Grand Guides Demo
+The example of a linked list
