@@ -1,7 +1,4 @@
-Singly-Linked List Example
-===========================
+S3_G2_Alpha
+===========
 
-**********An example of creating a Linked List**********
-
-**********Written by Jason A. Astuto ***********************
-**********Jason.Astuto@sustrugi.com*************************
+The Administration site for the Grand Guides Demo
